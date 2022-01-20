@@ -19,7 +19,7 @@ export const skillItems =
                         timeline:
                             {
                                 startTimeline: "2.2",
-                                endTimeline: ""
+                                endTimeline: "3.1"
                             }
                     }
                 ]
@@ -76,7 +76,7 @@ export const skillItems =
                         timeline:
                             {
                                 startTimeline: "2.2",
-                                endTimeline: ""
+                                endTimeline: "3.1"
                             }
                     },
                     {
@@ -85,7 +85,7 @@ export const skillItems =
                         timeline:
                             {
                                 startTimeline: "2.2",
-                                endTimeline: ""
+                                endTimeline: "3.1"
                             }
                     }
                 ]
@@ -118,7 +118,7 @@ export const skillItems =
                         timeline:
                             {
                                 startTimeline: "2.2",
-                                endTimeline: ""
+                                endTimeline: "3.1"
                             }
                     },
                     {
@@ -127,7 +127,7 @@ export const skillItems =
                         timeline:
                             {
                                 startTimeline: "2.1",
-                                endTimeline: "2.2"
+                                endTimeline: "3.1"
                             }
                     },
                     {
@@ -136,7 +136,7 @@ export const skillItems =
                         timeline:
                             {
                                 startTimeline: "2.2",
-                                endTimeline: ""
+                                endTimeline: "3.1"
                             }
                     },
                     {
@@ -214,7 +214,7 @@ export const skillItems =
                         timeline:
                             {
                                 startTimeline: "2.2",
-                                endTimeline: ""
+                                endTimeline: "3.1"
                             }
                     }
                 ]

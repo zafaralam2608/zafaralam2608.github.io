@@ -1,6 +1,44 @@
 export const experienceItems =
     [
         {
+            post: "Senior Associate Technology",
+            org: "Synechron",
+            location: "Pune",
+            projects:
+                [
+                    {
+                        title: "Content Encryption Project",
+                        role: "Java Developer",
+                        timeline: "3.1",
+                        technologies:
+                            [
+                                "Spring Boot",
+                                "Maven",
+                                "REST",
+                            ],
+                        description: "TBD",
+                        contributions:
+                            [
+                                "TBD",
+                            ]
+                    },
+                    {
+                        title: "TBD",
+                        role: "Java Developer",
+                        timeline: "3.2",
+                        technologies:
+                            [
+                                "TBD",
+                            ],
+                        description: "TBD",
+                        contributions:
+                            [
+                                "TBD",
+                            ]
+                    },
+                ]
+        },
+        {
             post: "Senior Software Engineer",
             org: "Sopra Steria",
             location: "Noida",

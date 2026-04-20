@@ -30,7 +30,7 @@ const about = {
   ],
   "basicInfo": {
     "descriptionHeader": "Hi",
-    "description": "👋 I'm Zafar. I'm an experienced Software Engineer with a demonstrated history of working in the Information Technology and Services industry. In my 7+ years career, I have developed a good grasp on programming languages namely Java and JavaScript as well as tools like Maven, Install4j and Install Anywhere along with multiple SQL database systems like Oracle, SQLServer and Mysql. My major roles mostly include web application development using Spring, ReactJS, REST and Maven. Other important skills include Git, Jenkins, JIRA, Crucible and Confluence",
+    "description": "👋 I'm Zafar. Full Stack Developer with 9 years of experience, known as a fast learner, possessing strong expertise in Java and JavaScript, primarily focused on web application development using Spring Boot, ReactJS, REST, and JMS, with experience in handling and guiding small to medium teams on multiple occasions",
     "sectionName": {
       "about": "About me",
       "projects": "Projects",

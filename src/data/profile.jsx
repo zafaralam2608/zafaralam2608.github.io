@@ -5,7 +5,7 @@ const profile = {
       "title": "Senior Software Engineer",
       "years": "May 2023 - present",
       "mainTech": [
-        "Java 17"
+        "Java 21"
       ],
       "technologies": [
         "Java", "Spring Boot", "Microservices", "REST", "JavaScript", "TypeScript", "ReactJS", "Oracle"
